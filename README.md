@@ -160,16 +160,16 @@ print(me.current_mission())
 
 **What it does:**
 - 📞 End-to-end AI calling system with natural conversations
-- 🎤 Low-latency voice interactions (Whisper STT + Kokoro/Coqui TTS)
+- 🎤 Low-latency voice interactions ( STT + TTS)
 - 🧠 Context-aware engine with session memory
 - 📚 RAG pipeline using Qdrant for factual responses
 - 🕷️ Web scraping (BeautifulSoup + Scrapy) for data collection
-- 🐳 Fully containerized with Docker, deployed on AWS
+- 🐳 Fully containerized with Docker
 
 **Tech Stack:**
 ```
 Backend: Python, FastAPI, Redis, WebSockets
-AI/ML: LLMs, Whisper, Qdrant, RAG
+AI/ML: LLMs(OpenAI), Deepgram, ElevenLabs, Qdrant, RAG
 Vector DB: Qdrant with sentence-transformers
 Deployment: Docker, AWS EC2, Nginx
 ```
@@ -200,21 +200,21 @@ Deployment: Docker, AWS EC2, Nginx
 **Tech Stack:**
 ```
 Backend: Python, FastAPI, MySQL
-AI/ML: Computer Vision, OCR, YOLO, Custom Models
+AI/ML: Computer Vision, OCR, Custom Models
 Processing: PDF parsing, Document extraction
-Frontend: React, Agent dashboard
+Frontend: Laravel, Agent dashboard
 ```
 
 **Impact:**
 - ⚡ 70% faster claim processing
 - 🎯 95%+ OCR accuracy
 - 💼 Agent review & override functionality
-- 📄 One-click report generation
+- 📄 Realtime report generation
 
 </details>
 
 <details>
-<summary><b>📝 Content Management System</b> - Enterprise CMS</summary>
+<summary><b>📝 Content Management System</b> - CMS</summary>
 <br>
 
 **Timeline:** Jun 2024 - Jul 2024  
