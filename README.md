@@ -80,7 +80,7 @@ print(me.current_mission())
 ### 💻 Previous Role
 **Jr. Web Developer**  
 📍 Reboot Technology Pvt. Ltd.  
-📅 Jun 2024 - Jan 2025
+📅 Jun 2023 - Jan 2025
 
 **Achievements:**
 - 🚗 Built CV projects (YOLO, face recognition)
