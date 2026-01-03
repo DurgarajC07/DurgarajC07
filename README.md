@@ -146,12 +146,15 @@ Dynamic CMS with role-based access control and media management
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DurgarajC07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgarajC07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
   
-![Durgaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DurgarajC07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgarajC07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DurgarajC07&theme=radical&hide_border=true&background=0D1117)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DurgarajC07&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -160,8 +163,8 @@ Dynamic CMS with role-based access control and media management
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=DurgarajC07&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DurgarajC07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -169,7 +172,11 @@ Dynamic CMS with role-based access control and media management
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DurgarajC07&theme=react-dark&hide_border=true&bg_color=0D1117)
+<div align="center">
+
+[![Durgaraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DurgarajC07&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
