@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Durgaraj Chauhan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=01D277&center=true&vCenter=true&width=940&lines=AI+Engineer+%7C+LLM+Specialist;Building+Production-Ready+AI+Systems;2.5%2B+Years+of+Hands-on+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=01D277&center=true&vCenter=true&width=940&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Production-Ready+AI+%26+Web+Systems;2.5%2B+Years+of+Hands-on+Experience" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaraj-chauhan/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Durgaraj07)
@@ -18,39 +18,47 @@
 ## 🚀 About Me
 
 ```python
-class AIEngineer:
+class FullStackAIEngineer:
     def __init__(self):
         self.name = "Durgaraj Chauhan"
         self.role = "Sr. Software Engineer"
         self.company = "Anvex AI Technologies"
         self.location = "Mumbai, India 🇮🇳"
         self.experience = "2.5+ years"
+        self.background = "Web Development → AI/ML Engineering"
         
     def expertise(self):
         return {
             "AI/ML": ["LLMs", "RAG Systems", "Agentic AI", "Computer Vision"],
-            "Development": ["FastAPI", "Python", "REST APIs", "Microservices"],
-            "Deployment": ["Docker", "AWS", "Redis", "Vector DBs"],
-            "Specialties": ["Chatbots", "Voice AI", "Document Processing"]
+            "Backend": ["Python", "FastAPI", "Flask", "PHP", "Laravel"],
+            "Frontend": ["React", "TypeScript", "JavaScript", "Modern UI/UX"],
+            "Web Development": ["REST APIs", "Microservices", "MVC Architecture"],
+            "Deployment": ["Docker", "AWS", "Redis", "Nginx", "Vector DBs"],
+            "Specialties": ["GenAI Applications", "Full Stack Solutions", "Voice AI"]
         }
     
+    def journey(self):
+        return "Started in Web Development 🌐 → Evolved into AI Engineering 🤖"
+    
     def current_mission(self):
-        return "Taking AI from research → production → scale 🎯"
+        return "Building AI-powered full-stack solutions at scale 🎯"
 
-me = AIEngineer()
+me = FullStackAIEngineer()
+print(me.journey())
 print(me.current_mission())
-# Output: "Taking AI from research → production → scale 🎯"
 ```
 
 <div align="center">
 
 ### 💡 What I Do
 
+🌐 Build **full-stack web applications** with Laravel, React & TypeScript  
 🤖 Design & deploy **LLM-powered conversational AI** (chatbots & callbots)  
-📚 Build **RAG pipelines** with vector databases for grounded responses  
-🎯 Create **agentic automation systems** reducing manual work by 60%  
-👁️ Develop **computer vision solutions** for real-world applications  
-🚀 Ship **production-ready AI systems** with FastAPI, Docker & AWS
+📚 Develop **RAG pipelines** with vector databases for intelligent responses  
+⚡ Create **scalable REST APIs** and microservices architectures  
+🎯 Implement **agentic automation systems** reducing manual work by 60%  
+👁️ Build **computer vision solutions** for real-world applications  
+🚀 Ship **production-ready systems** end-to-end with modern tech stacks
 
 </div>
 
@@ -69,10 +77,11 @@ print(me.current_mission())
 
 **Impact:**
 - 🤖 Deployed AI chatbots & callbots with VAPI + FastAPI
-- 🧠 Built context-aware LLM pipelines
+- 🧠 Built context-aware LLM pipelines with RAG
 - 🔄 Automated workflows (60% task reduction)
 - 👁️ Implemented VLM pipelines for document processing
 - ☁️ Scaled microservices on AWS + Docker
+- 🌐 Full-stack development with modern frameworks
 
 </td>
 <td width="50%">
@@ -83,11 +92,12 @@ print(me.current_mission())
 📅 Jun 2023 - Jan 2025
 
 **Achievements:**
-- 🚗 Built CV projects (YOLO, face recognition)
+- 🌐 Built full-stack web apps (Laravel, React, JS)
+- 🚗 Developed CV projects (YOLO, face recognition)
 - 🔐 Integrated DocuSign, Twilio 2FA, QR systems
-- 💳 Payment APIs (Stripe/Razorpay)
+- 💳 Payment gateway APIs (Stripe/Razorpay)
+- 🤖 Started GenAI journey with Python projects
 - 🏆 **3× Employee of the Month**
-- 📦 Delivered production-ready APIs
 
 </td>
 </tr>
@@ -102,13 +112,14 @@ print(me.current_mission())
 ### 💻 Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🤖 AI & Machine Learning
 
@@ -152,7 +163,7 @@ print(me.current_mission())
 ## 🎯 Featured Projects
 
 <details open>
-<summary><b>🤖 AI Callbot System</b> - Production AI Voice Assistant</summary>
+<summary><b>🤖 AI Callbot System</b> - Production GenAI Voice Assistant</summary>
 <br>
 
 **Timeline:** Oct 2024 - Present  
@@ -160,8 +171,8 @@ print(me.current_mission())
 
 **What it does:**
 - 📞 End-to-end AI calling system with natural conversations
-- 🎤 Low-latency voice interactions ( STT + TTS)
-- 🧠 Context-aware engine with session memory
+- 🎤 Low-latency voice interactions (STT + TTS)
+- 🧠 Context-aware LLM engine with session memory
 - 📚 RAG pipeline using Qdrant for factual responses
 - 🕷️ Web scraping (BeautifulSoup + Scrapy) for data collection
 - 🐳 Fully containerized with Docker
@@ -169,7 +180,7 @@ print(me.current_mission())
 **Tech Stack:**
 ```
 Backend: Python, FastAPI, Redis, WebSockets
-AI/ML: LLMs(OpenAI), Deepgram, ElevenLabs, Qdrant, RAG
+AI/ML: LLMs (OpenAI), Deepgram, ElevenLabs, Qdrant, RAG
 Vector DB: Qdrant with sentence-transformers
 Deployment: Docker, AWS EC2, Nginx
 ```
@@ -183,7 +194,7 @@ Deployment: Docker, AWS EC2, Nginx
 </details>
 
 <details>
-<summary><b>🚗 Insurance Damage Estimation Platform</b> - Computer Vision Solution</summary>
+<summary><b>🚗 Insurance Damage Estimation Platform</b> - Full Stack CV Solution</summary>
 <br>
 
 **Timeline:** Sep 2024 - Feb 2025  
@@ -202,19 +213,20 @@ Deployment: Docker, AWS EC2, Nginx
 Backend: Python, FastAPI, MySQL
 AI/ML: Computer Vision, OCR, Custom Models
 Processing: PDF parsing, Document extraction
-Frontend: Laravel, Agent dashboard
+Frontend: Laravel (PHP), Blade Templates, JavaScript
+Dashboard: Agent portal with review functionality
 ```
 
 **Impact:**
 - ⚡ 70% faster claim processing
 - 🎯 95%+ OCR accuracy
 - 💼 Agent review & override functionality
-- 📄 Realtime report generation
+- 📄 Real-time report generation
 
 </details>
 
 <details>
-<summary><b>📝 Content Management System</b> - CMS</summary>
+<summary><b>📝 Enterprise Content Management System</b> - Full Stack Web Application</summary>
 <br>
 
 **Timeline:** Jun 2024 - Jul 2024  
@@ -222,19 +234,67 @@ Frontend: Laravel, Agent dashboard
 
 **Features:**
 - 👥 Role-based access control (RBAC)
-- 📁 Media management system
+- 📁 Advanced media management system
 - 🔐 Secure authentication & authorization
-- 📊 Dashboard analytics
+- 📊 Interactive dashboard with analytics
 - 🔄 RESTful API architecture
+- 🎨 Responsive UI with modern design
 
 **Tech Stack:**
 ```
-Backend: Laravel, PHP, MySQL
-Frontend: Blade Templates, JavaScript
+Backend: Laravel (PHP), MySQL
+Frontend: Blade Templates, JavaScript, CSS3
 Architecture: MVC Pattern, REST APIs
+Authentication: Laravel Sanctum
+```
+
+**Highlights:**
+- ⚡ Built with Laravel best practices
+- 🎨 Clean, intuitive user interface
+- 🔒 Enterprise-grade security
+- 📱 Fully responsive design
+
+</details>
+
+<details>
+<summary><b>🌐 Additional Web Development Projects</b></summary>
+<br>
+
+**E-Commerce & Business Solutions:**
+- 🛒 Built e-commerce platforms with payment integrations (Stripe, Razorpay)
+- 📱 Responsive web applications with React & TypeScript
+- 🔐 Authentication systems with JWT & OAuth
+- 📧 Email verification & 2FA with Twilio
+- ✍️ Digital signature integration with DocuSign
+- 📊 Admin dashboards with real-time analytics
+
+**Technologies Used:**
+```
+Frontend: React, TypeScript, JavaScript, HTML5, CSS3
+Backend: Laravel, PHP, Node.js
+APIs: RESTful services, WebSockets
+Integrations: Payment gateways, SMS services, Document signing
 ```
 
 </details>
+
+---
+
+## 💡 Skills Matrix
+
+<div align="center">
+
+| Category | Skills | Proficiency |
+|:---------|:-------|:------------|
+| **🤖 AI/ML** | LLM Integration, RAG Systems, Prompt Engineering, GenAI | ████████░░ 80% |
+| **🎯 AI Specialties** | Agentic AI, Voice Bots, Computer Vision | ████████░░ 85% |
+| **🌐 Web Frontend** | React, TypeScript, JavaScript, Modern UI/UX | ████████░░ 85% |
+| **⚙️ Backend** | FastAPI, Flask, Django, Laravel, PHP | █████████░ 90% |
+| **🗄️ Databases** | MongoDB, MySQL, PostgreSQL, Redis, Vector DBs | ████████░░ 80% |
+| **☁️ DevOps** | Docker, AWS, CI/CD, Nginx | ███████░░░ 75% |
+| **📊 Data & ML** | OCR, NLP, Feature Engineering | ████████░░ 80% |
+
+</div>
 
 ---
 
@@ -255,23 +315,6 @@ Architecture: MVC Pattern, REST APIs
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=DurgarajC07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## 💡 Skills Matrix
-
-<div align="center">
-
-| Category | Skills | Proficiency |
-|:---------|:-------|:------------|
-| **🤖 AI/ML** | LLM Integration, RAG Systems, Prompt Engineering | ████████░░ 80% |
-| **🎯 Specialties** | Agentic AI, Voice Bots, Computer Vision | ████████░░ 85% |
-| **⚙️ Backend** | FastAPI, Flask, Django, Laravel | █████████░ 90% |
-| **🗄️ Databases** | MongoDB, MySQL, Redis, Vector DBs | ████████░░ 80% |
-| **☁️ DevOps** | Docker, AWS, CI/CD, Nginx | ███████░░░ 75% |
-| **📊 Data** | OCR, NLP, Feature Engineering | ████████░░ 80% |
 
 </div>
 
@@ -334,18 +377,46 @@ Learning:
   - Advanced Agentic AI Patterns
   - Multi-Agent Systems
   - LLM Fine-tuning & RLHF
+  - Modern React Patterns & Next.js
   - Optimizing RAG Performance
   
 Building:
   - Production-grade AI Voice Systems
-  - Scalable RAG Architectures
+  - Scalable Full Stack Applications
+  - RAG-powered Web Applications
   - Computer Vision Pipelines
   
 Reading:
   - Latest LLM Research Papers
   - AI System Design Patterns
-  - Distributed Systems Architecture
+  - Modern Web Architecture
+  - Distributed Systems
 ```
+
+---
+
+## 🎯 My Tech Journey
+
+```mermaid
+graph LR
+    A[Web Development] -->|2023| B[Full Stack with Laravel & React]
+    B -->|2024| C[AI/ML & GenAI Projects]
+    C -->|2024-25| D[LLMs & RAG Systems]
+    D -->|Present| E[AI-Powered Full Stack Solutions]
+    
+    style A fill:#FF2D20
+    style B fill:#61DAFB
+    style C fill:#412991
+    style D fill:#01D277
+    style E fill:#FFD700
+```
+
+**My Evolution:**
+- 🌐 Started with **Web Development** (Laravel, PHP, JavaScript)
+- ⚡ Expanded to **Full Stack** with React & TypeScript
+- 🤖 Transitioned into **GenAI & Python** projects
+- 🧠 Specialized in **LLMs, RAG Systems & Agentic AI**
+- 🚀 Now building **AI-powered full-stack solutions** combining both worlds
 
 ---
 
@@ -355,10 +426,11 @@ Reading:
 
 ### 💬 I'm always open to:
 
-🤝 Collaborating on **AI/ML projects**  
-💡 Discussing **LLMs, RAG, and Agentic AI**  
-🚀 Building **production-ready AI systems**  
-📚 Sharing knowledge about **AI engineering**  
+🤝 Collaborating on **AI/ML & Web Development projects**  
+💡 Discussing **LLMs, RAG, GenAI & Full Stack Architecture**  
+🚀 Building **production-ready AI-powered systems**  
+🌐 Exploring **modern web technologies & best practices**  
+📚 Sharing knowledge about **AI engineering & web development**  
 
 <br>
 
