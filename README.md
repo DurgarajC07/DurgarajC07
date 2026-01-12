@@ -298,28 +298,6 @@ Integrations: Payment gateways, SMS services, Document signing
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=DurgarajC07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DurgarajC07&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgarajC07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=DurgarajC07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
