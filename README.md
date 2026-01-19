@@ -339,14 +339,6 @@ graph LR
 
 <div align="center">
 
-### 💭 Quote I Live By
-
-*"The best way to predict the future is to build it."*
-
-<br>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 **Thank you for visiting! ⭐ Star my repos if you find them interesting!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
