@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Durgaraj Chauhan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=01D277&center=true&vCenter=true&width=940&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Production-Ready+AI+%26+Web+Systems;2.5%2B+Years+of+Hands-on+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=01D277&center=true&vCenter=true&width=940&lines=AI+Engineer+%7C+Backend+Developer;Building+Production-Ready+AI+%26+Web+Systems;2.5%2B+Years+of+Hands-on+Experience" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaraj-chauhan/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Durgaraj07)
