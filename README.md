@@ -69,7 +69,7 @@
 
 ## 🎯 Featured Projects
 
-<details open>
+<details>
 <summary><b>🤖 AI Callbot System</b> - Production GenAI Voice Assistant</summary>
 <br>
 
@@ -187,24 +187,6 @@ Integrations: Payment gateways, SMS services, Document signing
 
 ---
 
-## 💡 Skills Matrix
-
-<div align="center">
-
-| Category | Skills | Proficiency |
-|:---------|:-------|:------------|
-| **🤖 AI/ML** | LLM Integration, RAG Systems, Prompt Engineering, GenAI | ████████░░ 80% |
-| **🎯 AI Specialties** | Agentic AI, Voice Bots, Computer Vision | ████████░░ 85% |
-| **🌐 Web Frontend** | React, TypeScript, JavaScript, Modern UI/UX | ████████░░ 85% |
-| **⚙️ Backend** | FastAPI, Flask, Django, Laravel, PHP | █████████░ 90% |
-| **🗄️ Databases** | MongoDB, MySQL, PostgreSQL, Redis, Vector DBs | ████████░░ 80% |
-| **☁️ DevOps** | Docker, AWS, CI/CD, Nginx | ███████░░░ 75% |
-| **📊 Data & ML** | OCR, NLP, Feature Engineering | ████████░░ 80% |
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -215,129 +197,12 @@ Integrations: Payment gateways, SMS services, Document signing
 
 ---
 
-## 🎓 Education
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Bachelor of Engineering
-**Computer Engineering**  
-Saraswati College of Engineering, Kharghar  
-📅 2020 - 2023  
-📊 **78.34%** Percentile
-
-</td>
-<td width="50%">
-
-### 📜 Diploma
-**Computer Engineering**  
-Saraswati Institute of Technology, Kharghar  
-📅 2017 - 2020  
-📊 **90.91%** Percentile
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📜 Certifications & Learning
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python)
-![Laravel](https://img.shields.io/badge/Laravel-Master-FF2D20?style=for-the-badge&logo=laravel)
 ![MVC](https://img.shields.io/badge/MVC-Architecture-181717?style=for-the-badge)
 ![Web Development](https://img.shields.io/badge/PSD%20to%20HTML-Certified-E34F26?style=for-the-badge&logo=html5)
-
-</div>
-
----
-
-## 🌟 What I'm Currently Exploring
-
-```yaml
-Learning:
-  - Advanced Agentic AI Patterns
-  - Multi-Agent Systems
-  - LLM Fine-tuning & RLHF
-  - Modern React Patterns & Next.js
-  - Optimizing RAG Performance
-  
-Building:
-  - Production-grade AI Voice Systems
-  - Scalable Full Stack Applications
-  - RAG-powered Web Applications
-  - Computer Vision Pipelines
-  
-Reading:
-  - Latest LLM Research Papers
-  - AI System Design Patterns
-  - Modern Web Architecture
-  - Distributed Systems
-```
-
----
-
-## 🎯 My Tech Journey
-
-```mermaid
-graph LR
-    A[Web Development] -->|2023| B[Full Stack with Laravel & React]
-    B -->|2024| C[AI/ML & GenAI Projects]
-    C -->|2024-25| D[LLMs & RAG Systems]
-    D -->|Present| E[AI-Powered Full Stack Solutions]
-    
-    style A fill:#FF2D20
-    style B fill:#61DAFB
-    style C fill:#412991
-    style D fill:#01D277
-    style E fill:#FFD700
-```
-
-**My Evolution:**
-- 🌐 Started with **Web Development** (Laravel, PHP, JavaScript)
-- ⚡ Expanded to **Full Stack** with React & TypeScript
-- 🤖 Transitioned into **GenAI & Python** projects
-- 🧠 Specialized in **LLMs, RAG Systems & Agentic AI**
-- 🚀 Now building **AI-powered full-stack solutions** combining both worlds
-
----
-
-## 📫 Let's Connect & Collaborate!
-
-<div align="center">
-
-### 💬 I'm always open to:
-
-🤝 Collaborating on **AI/ML & Web Development projects**  
-💡 Discussing **LLMs, RAG, GenAI & Full Stack Architecture**  
-🚀 Building **production-ready AI-powered systems**  
-🌐 Exploring **modern web technologies & best practices**  
-📚 Sharing knowledge about **AI engineering & web development**  
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaraj-chauhan/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Durgaraj07)
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durgarajchauhan@gmail.com)
-
-<br>
-
-### ⚡ Fun Facts
-
-🎮 Anime enthusiast | 🎵 Music lover | 📚 Avid reader | ✈️ Travel explorer  
-🗣️ Multilingual: English • Hindi • Marathi • Bhojpuri
-
-</div>
-
----
-
-<div align="center">
-
-**Thank you for visiting! ⭐ Star my repos if you find them interesting!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
