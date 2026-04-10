@@ -205,5 +205,6 @@ Integrations: Payment gateways, SMS services, Document signing
 ![Python](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python)
 ![MVC](https://img.shields.io/badge/MVC-Architecture-181717?style=for-the-badge)
 ![Web Development](https://img.shields.io/badge/PSD%20to%20HTML-Certified-E34F26?style=for-the-badge&logo=html5)
+![Docker](https://img.shields.io/badge/Docker-Essentials-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
