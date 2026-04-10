@@ -71,11 +71,46 @@
 ## 🎯 Featured Projects
 
 <details>
+<summary><b>🧠 Code Knowledge Agent</b> - Multi-Agent RAG System for Code Intelligence</summary>
+<br>
+
+**Timeline:** Mar 2026 - Present  
+**Status:** 🟢 Active Development
+
+**What it does:**
+- 🤖 Multi-agent system with 18 specialized agents for deep code understanding
+- 🧠 Hybrid reasoning using Qwen (code-level) + Gemma 4 (architecture-level)
+- 🔍 Advanced RAG pipeline (vector + graph retrieval)
+- 🕸️ Knowledge graph using Neo4j for relationship-aware insights
+- 📦 Code indexing pipeline (scan → extract → summarize → embed → store)
+- ⚡ Parallel retrieval and agent execution for fast responses
+
+**Tech Stack:**
+```
+Backend: Python, FastAPI, AsyncIO
+AI/ML: Qwen2.5-Coder, Gemma 4 (Ollama), DSPy
+Vector DB: ChromaDB (HNSW indexing)
+Graph DB: Neo4j (Cypher queries)
+Retrieval: Hybrid RAG (Vector + Graph)
+Deployment: Docker, Ollama (local inference)
+```
+
+**Key Features:**
+- ✅ 18 specialized agents (retrieval, analysis, performance, security, etc.)
+- ✅ Hybrid RAG (ChromaDB + Neo4j)
+- ✅ Codebase-level reasoning (AST, call chains, dependencies)
+- ✅ Multi-step agent orchestration
+- ✅ Local LLM inference (cost-efficient & privacy-friendly)
+- ✅ Scalable architecture for large codebases
+
+</details>
+
+<details>
 <summary><b>🤖 AI Callbot System</b> - Production GenAI Voice Assistant</summary>
 <br>
 
 **Timeline:** Oct 2024 - Present  
-**Status:** 🟢 Active Development
+**Status:** 🟢 Completed
 
 **What it does:**
 - 📞 End-to-end AI calling system with natural conversations
