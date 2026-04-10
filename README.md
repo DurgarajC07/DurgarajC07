@@ -45,6 +45,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-24386C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A4FCF?style=for-the-badge&logo=chroma&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 
